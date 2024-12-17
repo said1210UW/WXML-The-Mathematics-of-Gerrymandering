@@ -10,5 +10,7 @@ These tools also enable the quantification of partisan favoritism within elector
 - We created a dataset that overlaps voting results from previous elections and demographic data using GIS mapping software for over 8000 voting precincts
 - Finally we employed statistical techniques like ecological inference to establish if racial vote dilution was committed against the Latino community in the Yakima River Valley Area
 
+<img src='WXML.png' alt="WXML Spring 2024 Poster">
+
 **Links**:
     - [Program Webpage](https://wxml.math.washington.edu/)
